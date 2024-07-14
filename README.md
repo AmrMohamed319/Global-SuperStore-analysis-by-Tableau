@@ -68,3 +68,6 @@ The Global Super-Store data analysis project using Tableau provides both descrip
 2. **Load into Tableau**: Import the dataset into Tableau.
 3. **Dashboard Creation**: Use the dataset to create visuals as described in the project details.
 4. **Analysis**: Utilize the dashboards for deep and flexible analysis of the data.
+
+## You can find the dashboard on the following link:
+https://public.tableau.com/app/profile/amr.mohamed319/viz/GlobalSuper-StoreDashboard_17144166454520/Descriptive
