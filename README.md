@@ -71,3 +71,7 @@ The Global Super-Store data analysis project using Tableau provides both descrip
 
 ## You can find the dashboard on the following link:
 https://public.tableau.com/app/profile/amr.mohamed319/viz/GlobalSuper-StoreDashboard_17144166454520/Descriptive
+
+![Prescriptive](https://github.com/user-attachments/assets/6e7a0ee0-dbfd-4f7c-8f9d-3053cff3957c)
+![Descriptive](https://github.com/user-attachments/assets/0dadc38b-78b1-4634-9693-7c08d998eeca)
+
